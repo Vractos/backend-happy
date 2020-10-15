@@ -1,0 +1,9 @@
+{
+	"name": "Lar Doce lar",
+	"latitude": -15.835766,
+	"longitude": -48.0565073,
+	"about": "Sobre o orfanato",
+	"instructions": "Venha visitar",
+	"opening_hours": "Das 8h até as 18h",
+	"open_on_weekends": true
+}
